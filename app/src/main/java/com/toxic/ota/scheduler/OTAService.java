@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.resurrection.ota.scheduler;
+package com.toxic.ota.scheduler;
 
 import android.content.Intent;
 import android.os.AsyncTask;
 
 import com.commonsware.cwac.wakeful.WakefulIntentService;
-import com.resurrection.ota.tasks.CheckUpdateTask;
+import com.toxic.ota.tasks.CheckUpdateTask;
 
 public class OTAService extends WakefulIntentService {
 

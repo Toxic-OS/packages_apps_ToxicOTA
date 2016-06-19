@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.resurrection.ota.configs;
+package com.toxic.ota.configs;
 
 import android.content.Context;
 
-import com.resurrection.ota.utils.OTAUtils;
+import com.toxic.ota.utils.OTAUtils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package com.resurrection.ota;
+package com.toxic.ota;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
