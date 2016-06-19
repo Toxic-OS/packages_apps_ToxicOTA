@@ -14,16 +14,16 @@
  * limitations under the License.
  */
 
-package com.resurrection.ota;
+package com.toxic.ota;
 
 import android.app.Fragment;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 import android.view.MenuItem;
 
-import com.resurrection.ota.configs.LinkConfig;
-import com.resurrection.ota.dialogs.WaitDialogFragment;
-import com.resurrection.ota.fragments.SlimOTAFragment;
+import com.toxic.ota.configs.LinkConfig;
+import com.toxic.ota.dialogs.WaitDialogFragment;
+import com.toxic.ota.fragments.SlimOTAFragment;
 
 public class MainActivity extends PreferenceActivity implements
         WaitDialogFragment.OTADialogListener, LinkConfig.LinkConfigListener {

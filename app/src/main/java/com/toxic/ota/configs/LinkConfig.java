@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.resurrection.ota.configs;
+package com.toxic.ota.configs;
 
 import android.content.Context;
 
-import com.resurrection.ota.xml.OTALink;
-import com.resurrection.ota.xml.OTAParser;
-import com.resurrection.ota.utils.OTAUtils;
+import com.toxic.ota.xml.OTALink;
+import com.toxic.ota.xml.OTAParser;
+import com.toxic.ota.utils.OTAUtils;
 
 import org.json.JSONArray;
 import org.json.JSONException;
